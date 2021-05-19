@@ -1,0 +1,15 @@
+.paginator{
+   display: flex;
+   align-items: center;
+}
+.pageNumbers {
+   margin: 0 auto 20px;
+   padding: 20px 0px 0px 0px;
+}
+.pageNumbers span {
+   cursor: pointer;
+   color: blanchedalmond;
+}
+.selectedPage {
+   font-weight: bold;
+}

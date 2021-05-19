@@ -1,0 +1,15 @@
+
+.friend{
+   text-align: center;
+   margin-bottom: 10px;
+   text-decoration: none;
+}
+.friend img{
+   width: 45px;
+   height: 45px;
+   border-radius: 50%;
+}
+.name {
+   color: azure;
+   font-size: 14px;
+}

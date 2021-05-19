@@ -1,0 +1,22 @@
+.descriptionBlock {
+   padding: 10px;
+}
+.userPhoto {
+   width: 200px;
+}
+.twitterIcon{
+   width: 50px;
+}
+.profileInfo {
+   max-width: 100%;
+   margin: 0 auto;
+}
+.contact {
+   padding-left: 10px;
+}
+.status {
+   cursor: pointer;
+}
+.input {
+   width: 300px;
+}
